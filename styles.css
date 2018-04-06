@@ -1,0 +1,6 @@
+.decoded{
+  text-transform: lowercase;
+}
+.decoded:first-letter{
+  text-transform: uppercase;
+}
